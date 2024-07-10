@@ -1,0 +1,20 @@
+{
+    "quiz": [
+      {
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+        "resposta_correta": "Brasília"
+      },
+      {
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "opcoes": ["Miguel de Cervantes", "William Shakespeare", "Jorge Luis Borges", "Machado de Assis"],
+        "resposta_correta": "Miguel de Cervantes"
+      },
+      {
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "opcoes": ["Terra", "Júpiter", "Vênus", "Marte"],
+        "resposta_correta": "Júpiter"
+      }
+    ]
+  }
+  
